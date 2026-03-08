@@ -35,7 +35,7 @@
         "apiUrl": "https://mobileapp.fakeeh.care:7202",
         "interconTerminus": "Mob_IntConTeminal",
         "isSslPinningEnabled": false,
-        "isSecureMode": false
+        "isSecureMode": true
       }
     }
   },
